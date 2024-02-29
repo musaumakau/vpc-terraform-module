@@ -33,4 +33,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 variables.tfvars
-.terraform/providers/registry.terraform.io/hashicorp/aws/4.34.0/darwin_amd64/terraform-provider-aws_v4.34.0_x5
+*.terraform/providers/
