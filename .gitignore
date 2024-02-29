@@ -33,4 +33,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 variables.tfvars
-*.terraform/providers/
+terraform-provider-aws_*.x5
+
